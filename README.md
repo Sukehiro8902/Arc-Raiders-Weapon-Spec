@@ -1,1 +1,1 @@
-# Arc-Raiders-Weapon-Spec_20261101
+# Arc-Raiders-Weapon-Spec
